@@ -3,10 +3,6 @@ A Fork Of HackingToolkit9DS By Asia81
 
 ![IMAGE](http://nsa39.casimages.com/img/2018/02/20/180220062531406418.png)
 
-UDDATE AS OF JUNE 21st 2018
-You have understood from my inactivity that the tool is not being updated anymore.
-It still work (or not, depend on peoples), but I'm not working anymore on it.
-
 With this tool, you'll be able to:
 - Extract and rebuild any .3DS file
 - Extract and rebuild any .CIA file (No DLC nor DSiWare atm)
@@ -24,9 +20,8 @@ Before report an issue, be sure:
 - To write or don't write the extension of your file when specified.
 - To have installed the setup package for your language (SetupXX.exe file).
 
-Changelog V12 (02/20/2018)
-- Fixed encrypted CIA rebuild process.
-- Removed installation check.
+Changelog V0.0.1 (26/06/2021)
+- Not much...
 
 Contacts:
 - Github : https://github.com/The361
