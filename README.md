@@ -26,3 +26,5 @@ Changelog V0.0.1 (26/06/2021)
 Contacts:
 - Github : https://github.com/The361
 - GBA Temp : https://gbatemp.net/members/the361.562756/
+
+Also sorry if my french is bad.
