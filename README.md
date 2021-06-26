@@ -28,15 +28,6 @@ Changelog V12 (02/20/2018)
 - Fixed encrypted CIA rebuild process.
 - Removed installation check.
 
-The main tutorial can be found here:<br>
-https://gbatemp.net/threads/383055/
-
 Contacts:
-- Github : https://github.com/Asia81
-- Twitter : https://twitter.com/ProteccWaifu
-- Youtube : https://www.youtube.com/c/asia81
-- GBA Temp : https://gbatemp.net/members/asia81.356294/
-- I speak  and english, feel free to speak to me in the language you want.
-
-If you fork it, or do anything with it, do what you want without asking.  
-But please, just give some credits, thanks!
+- Github : https://github.com/The361
+- GBA Temp : https://gbatemp.net/members/the361.562756/
